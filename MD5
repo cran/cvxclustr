@@ -1,6 +1,6 @@
-96ec2a46aa75e12855fb3459d75f6c25 *DESCRIPTION
+80f3a251428868721a31f7201f0dbbcb *DESCRIPTION
 6929452fb371f98db2e5ebf2a9947338 *NAMESPACE
-af8f3ef2558880c4e85b1f44d8a8c5cb *NEWS
+fbf84f93c81f5f4942996f956b2ffee4 *NEWS
 cadf9a37950080b2a323db260524d078 *R/cvxclust.r
 017da7bae77c0e9dae932ed71cbb7eb0 *R/cvxclust_admm.r
 33706afb991b6697051af172bce489db *R/cvxclust_ama.r
@@ -26,4 +26,6 @@ b9a3f094e2751f4eeeb39f56160d349b *man/kernel_weights.Rd
 a7f53abd1d6f7bca698f576a4b63917b *man/knn_weights.Rd
 a939688664414fb45a1e1dd492e77f94 *man/mammals.Rd
 ca264b5c782c8aa31d419e35e2c1ddd6 *man/weights_graph.Rd
+015491a77e27943326f58c7e45627be8 *src/Makevars
+633447bf1068cb6aec9a528d9a73268d *src/Makevars.win
 68fc736227b77e3c1a714ae26bee3209 *src/cvxclustr.c

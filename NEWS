@@ -1,3 +1,9 @@
+cvxclustr 1.1.1
+========================
+
+* Added Makevars and Makevars.win to handle BLAS calls in C code.
+* Updated license to CC BY-NC-SA 4.0 to better suit CRAN's distribution.
+
 cvxclustr 1.1.0
 ========================
 
